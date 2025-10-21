@@ -1,1 +1,1 @@
-# pw-etec
+# Atividades curriculares da ETEC.
